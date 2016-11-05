@@ -1,0 +1,11 @@
+{
+  "require": {
+    "phpunit/phpunit": "^5.4",
+    "ext-xdebug": ">=2.1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPUnitEventDemo\\": "src/PHPUnitEventDemo/"
+    }
+  }
+}
